@@ -1,0 +1,6 @@
+{
+  "name": "package-02",
+  "dependencies": {
+    "ffi-napi": "=3.0.1"
+  }
+}
